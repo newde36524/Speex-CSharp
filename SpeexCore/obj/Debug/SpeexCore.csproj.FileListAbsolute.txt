@@ -1,0 +1,41 @@
+c:\users\administrator\source\repos\SpeexDemo\SpeexCore\bin\Debug\SpeexCore.dll
+c:\users\administrator\source\repos\SpeexDemo\SpeexCore\bin\Debug\SpeexCore.pdb
+c:\users\administrator\source\repos\SpeexDemo\SpeexCore\obj\Debug\SpeexCore.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\SpeexDemo\SpeexCore\obj\Debug\SpeexCore.dll
+c:\users\administrator\source\repos\SpeexDemo\SpeexCore\obj\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexCore\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexCore\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexCore\obj\Debug\SpeexCore.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexCore\obj\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexCore\obj\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexCore\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexCore\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexCore\obj\Debug\SpeexCore.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexCore\obj\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexCore\obj\Debug\SpeexCore.pdb
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexCore\bin\Debug\SpeexCore.dll
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexCore\bin\Debug\SpeexCore.pdb
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexCore\obj\Debug\SpeexCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexCore\obj\Debug\SpeexCore.dll
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexCore\obj\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexCore\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexCore\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.pdb
+E:\Demo源码\SpeexDemo1.3\SpeexCore\bin\Debug\SpeexCore.dll
+E:\Demo源码\SpeexDemo1.3\SpeexCore\bin\Debug\SpeexCore.pdb
+E:\Demo源码\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.csproj.CoreCompileInputs.cache
+E:\Demo源码\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.dll
+E:\Demo源码\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexCore\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexCore\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexCore\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexCore\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.dll
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexCore\obj\Debug\SpeexCore.csprojAssemblyReference.cache

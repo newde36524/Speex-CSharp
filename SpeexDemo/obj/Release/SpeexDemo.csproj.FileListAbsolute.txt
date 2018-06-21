@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\bin\Release\SpeexDemo.exe.config
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\bin\Release\SpeexDemo.exe
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\bin\Release\SpeexDemo.pdb
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\bin\Release\SpeexCore.dll
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\bin\Release\SpeexCore.pdb
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\obj\Release\SpeexDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\obj\Release\SpeexDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\obj\Release\SpeexDemo.exe
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\obj\Release\SpeexDemo.pdb

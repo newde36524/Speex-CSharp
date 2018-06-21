@@ -1,0 +1,85 @@
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\bin\Debug\SpeexDemo.exe.config
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\bin\Debug\SpeexDemo.exe
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\bin\Debug\SpeexDemo.pdb
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\bin\Debug\SpeexCore.dll
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\bin\Debug\SpeexCore.pdb
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\obj\Debug\SpeexDemo.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\obj\Debug\SpeexDemo.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\obj\Debug\SpeexDemo.exe
+c:\users\administrator\source\repos\SpeexDemo\SpeexDemo\obj\Debug\SpeexDemo.pdb
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\bin\Debug\SpeexCore.Seald.dll
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexDemo\bin\Debug\SpeexCore.Seald.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\bin\Debug\SpeexDemo.exe.config
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\bin\Debug\SpeexDemo.exe
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\bin\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\bin\Debug\SpeexCore.Seald.dll
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\bin\Debug\SpeexCore.Seald.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\obj\Debug\SpeexDemo.csprojResolveAssemblyReference.cache
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\obj\Debug\SpeexDemo.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\obj\Debug\SpeexDemo.exe
+C:\Users\MR.Z\Desktop\SpeexDemo\SpeexDemo\obj\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\SpeexDemo.exe.config
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\SpeexDemo.exe
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\SpeexCore.Seald.dll
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\SpeexCore.Seald.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\obj\Debug\SpeexDemo.csprojResolveAssemblyReference.cache
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\obj\Debug\SpeexDemo.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\obj\Debug\SpeexDemo.exe
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\obj\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\NAudio.dll
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\NAudio.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.1\SpeexDemo\bin\Debug\NAudio.xml
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\bin\Debug\SpeexDemo.exe.config
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\bin\Debug\SpeexDemo.exe
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\bin\Debug\SpeexDemo.pdb
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\bin\Debug\NAudio.dll
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\bin\Debug\SpeexCore.dll
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\bin\Debug\SpeexCore.Seald.dll
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\bin\Debug\SpeexCore.Seald.pdb
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\bin\Debug\SpeexCore.pdb
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\obj\Debug\SpeexDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\obj\Debug\SpeexDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\obj\Debug\SpeexDemo.exe
+C:\Users\Administrator\Desktop\SpeexDemo1.2\SpeexDemo\obj\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.exe.config
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.exe
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.exe
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.pdb
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.exe.config
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.exe
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.pdb
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexCore.dll
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexCore.pdb
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csprojResolveAssemblyReference.cache
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csproj.CoreCompileInputs.cache
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.exe
+E:\Demo源码\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.exe.config
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.exe
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csprojResolveAssemblyReference.cache
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.exe
+C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.exe.config
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.exe
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexCore.dll
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\bin\Debug\SpeexCore.pdb
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csprojResolveAssemblyReference.cache
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csproj.CoreCompileInputs.cache
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.exe
+C:\Users\MR.Z\source\repos\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.pdb
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csprojAssemblyReference.cache
+C:\Users\MR.Z\Desktop\SpeexDemo1.3\SpeexDemo\obj\Debug\SpeexDemo.csproj.CopyComplete

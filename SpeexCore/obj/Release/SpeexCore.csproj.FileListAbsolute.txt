@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexCore\bin\Release\SpeexCore.dll
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexCore\bin\Release\SpeexCore.pdb
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexCore\obj\Release\SpeexCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexCore\obj\Release\SpeexCore.dll
+C:\Users\Administrator\source\repos\SpeexDemo\SpeexCore\obj\Release\SpeexCore.pdb

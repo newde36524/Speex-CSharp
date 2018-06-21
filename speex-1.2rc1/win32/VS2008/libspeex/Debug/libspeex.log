@@ -1,0 +1,404 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  window.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\window.c(71): warning C4305: “初始化”: 从“double”到“const spx_word16_t”截断
+  vq.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vq.c(76): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vq.c(110): warning C4100: “stack”: 未引用的形参
+  vbr.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(83): warning C4305: “=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(88): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(89): warning C4305: “=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(95): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(142): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(149): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(170): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(180): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(187): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(189): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(191): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(204): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(206): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(211): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(219): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(240): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(247): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(249): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(252): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(124): warning C4100: “pitch”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\vbr.c(271): warning C4100: “vbr”: 未引用的形参
+  stereo.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(134): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(170): warning C4244: “=”: 从“double”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(195): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(196): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(197): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(212): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(286): warning C4244: “=”: 从“unsigned int”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(288): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\stereo.c(274): warning C4100: “state”: 未引用的形参
+  speex_header.c
+  speex_callbacks.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(75): warning C4100: “state”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(83): warning C4100: “state”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(91): warning C4100: “state”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(100): warning C4100: “state”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(109): warning C4100: “state”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(121): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(118): warning C4100: “state”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(130): warning C4244: “=”: 从“unsigned int”转换到“unsigned char”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(127): warning C4100: “state”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(139): warning C4100: “data”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\speex_callbacks.c(139): warning C4100: “state”: 未引用的形参
+  speex.c
+  smallft.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\smallft.c(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\smallft.c(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\smallft.c(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\smallft.c(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\smallft.c(855): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\smallft.c(856): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  sb_celp.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(128): warning C4305: “初始化”: 从“double”到“const spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(131): warning C4305: “初始化”: 从“double”到“const spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(411): warning C4305: “函数”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(414): warning C4305: “函数”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(435): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(437): warning C4305: “=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(439): warning C4305: “=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(449): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(461): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(484): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(569): warning C4305: “函数”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(570): warning C4305: “函数”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(592): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(656): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(1002): warning C4305: “函数”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(1022): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(1032): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(1048): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(1089): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(1181): warning C4244: “=”: 从“spx_int32_t”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(1286): warning C4127: 条件表达式是常量
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\sb_celp.c(1148): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  quant_lsp.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(82): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(90): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(171): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(175): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(206): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(217): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(222): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(226): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(230): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(234): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(238): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(254): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(257): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(276): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(287): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(292): warning C4244: “+=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(296): warning C4244: “+=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(300): warning C4244: “+=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(340): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(343): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(359): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(371): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(376): warning C4244: “+=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\quant_lsp.c(381): warning C4244: “+=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+  preprocess.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(281): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(284): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(365): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(370): warning C4244: “return”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(372): warning C4244: “return”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(386): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(387): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(391): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(446): warning C4244: “函数”: 从“int”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(510): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(516): warning C4305: “=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(519): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(520): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(508): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(581): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(587): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(588): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(595): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(721): warning C4100: “echo”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(744): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(829): warning C4244: “函数”: 从“spx_word16_t”转换到“int”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(868): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(918): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(930): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(971): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(987): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(989): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1081): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1084): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1087): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1090): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1093): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1096): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1139): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1147): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1176): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1179): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1195): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1199): warning C4244: “=”: 从“spx_int32_t”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\preprocess.c(1206): warning C4244: “=”: 从“float”转换到“spx_int32_t”，可能丢失数据
+  nb_celp.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(437): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(439): warning C4305: “=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(441): warning C4305: “=”: 从“double”到“float”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(508): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(593): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(604): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(623): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1016): warning C4305: “初始化”: 从“double”到“const spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1047): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1057): warning C4244: “函数”: 从“int”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1068): warning C4305: “函数”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1242): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1266): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1277): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1364): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1565): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1629): warning C4244: “=”: 从“spx_int32_t”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\nb_celp.c(1860): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  modes_wb.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes_wb.c(180): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes_wb.c(226): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+  modes.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes.c(193): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes.c(214): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes.c(235): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes.c(256): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes.c(277): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes.c(298): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\modes.c(320): warning C4305: “初始化”: 从“double”到“spx_word16_t”截断
+  mdf.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(200): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(368): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(479): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(489): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(505): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(507): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(509): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(511): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(488): warning C4244: “初始化”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(686): warning C4100: “Yout”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(718): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(730): warning C4456: “tmp32”的声明隐藏了上一个本地声明
+  c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(706): note: 参见“tmp32”的声明
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(756): warning C4456: “tmp32”的声明隐藏了上一个本地声明
+  c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(706): note: 参见“tmp32”的声明
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(984): warning C4244: “=”: 从“double”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1076): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1121): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1149): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1151): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1167): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1186): warning C4244: “=”: 从“int”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1225): warning C4244: “=”: 从“spx_int32_t”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1196): warning C4100: “len”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1248): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1250): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1252): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\mdf.c(1276): warning C4244: “=”: 从“spx_word32_t”转换到“spx_int32_t”，可能丢失数据
+  ltp.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(142): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(479): warning C4244: “*=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(480): warning C4244: “*=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(481): warning C4244: “*=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(492): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(493): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(494): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(502): warning C4456: “j”的声明隐藏了上一个本地声明
+  c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(370): note: 参见“j”的声明
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(503): warning C4456: “tmp1”的声明隐藏了上一个本地声明
+  c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(371): note: 参见“tmp1”的声明
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(367): warning C4100: “scaledown”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(359): warning C4100: “bits”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(638): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(538): warning C4100: “pitch_coef”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(694): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(695): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(696): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(710): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(712): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(708): warning C4244: “初始化”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(666): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(660): warning C4100: “pitch_coef”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(659): warning C4100: “end”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(786): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(775): warning C4100: “cumul_gain”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(774): warning C4100: “plc_tuning”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(773): warning C4100: “cdbk_offset”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(772): warning C4100: “complexity”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(771): warning C4100: “r”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(768): warning C4100: “bits”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(764): warning C4100: “end”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(762): warning C4100: “par”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(757): warning C4100: “sw”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(829): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(820): warning C4100: “cdbk_offset”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(819): warning C4100: “last_pitch_gain”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(818): warning C4100: “subframe_offset”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(817): warning C4100: “count_lost”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(816): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(815): warning C4100: “bits”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(811): warning C4100: “par”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\ltp.c(809): warning C4100: “end”: 未引用的形参
+  lsp_tables_nb.c
+  lsp.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\lsp.c(196): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\lsp.c(177): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\lsp.c(335): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\lsp.c(362): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\lsp.c(377): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\lsp.c(522): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\lsp.c(634): warning C4244: “=”: 从“double”转换到“spx_lsp_t”，可能丢失数据
+  lpc.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\lpc.c(99): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+  kiss_fftr.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\kiss_fftr.c(129): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\kiss_fftr.c(130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\kiss_fftr.c(131): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\kiss_fftr.c(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  kiss_fft.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\kiss_fft.c(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\kiss_fft.c(198): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\kiss_fft.c(363): warning C4100: “s2”: 未引用的形参
+  jitter.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(128): warning C4244: “=”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(203): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(236): warning C4244: “=”: 从“float”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(241): warning C4244: “=”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(352): warning C4244: “函数”: 从“spx_int32_t”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(447): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(696): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(716): warning C4100: “start_offset”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\jitter.c(716): warning C4100: “packet”: 未引用的形参
+  high_lsp_tables.c
+  hexc_table.c
+  hexc_10_32_table.c
+  gain_table_lbr.c
+  gain_table.c
+  filters.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(308): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(319): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(339): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(359): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(406): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(441): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(477): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(735): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(736): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(737): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(767): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(768): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(789): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(790): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(792): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(793): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(662): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(657): warning C4100: “p”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filters.c(656): warning C4100: “ak”: 未引用的形参
+  filterbank.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filterbank.c(63): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filterbank.c(83): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\filterbank.c(54): warning C4100: “type”: 未引用的形参
+  fftwrap.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\fftwrap.c(103): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\fftwrap.c(109): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  exc_8_128_table.c
+  exc_5_64_table.c
+  exc_5_256_table.c
+  exc_20_32_table.c
+  exc_10_32_table.c
+  exc_10_16_table.c
+  cb_search.c
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(91): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(116): warning C4244: “return”: 从“int”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(53): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(53): warning C4100: “resp2”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(195): warning C4244: “=”: 从“double”转换到“spx_sig_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(216): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(439): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(493): warning C4244: “=”: 从“double”转换到“spx_sig_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(567): warning C4244: “+=”: 从“double”转换到“spx_sig_t”，可能丢失数据
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(520): warning C4100: “seed”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(519): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(517): warning C4100: “nsf”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(585): warning C4100: “update_target”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(584): warning C4100: “complexity”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(582): warning C4100: “bits”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(581): warning C4100: “r”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(577): warning C4100: “par”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(604): warning C4100: “stack”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(603): warning C4100: “bits”: 未引用的形参
+c:\users\mr.z\desktop\新建文件夹 (2)\speexdemo1.3\speex-1.2rc1\libspeex\cb_search.c(601): warning C4100: “par”: 未引用的形参
+  bits.c
+  正在生成代码...
+  LINK : 没有找到 ..\..\..\..\SpeexDemo\bin\Debug\libspeex.dll 或上一个增量链接没有生成它；正在执行完全链接
+bits.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 ..\..\..\..\SpeexDemo\bin\Debug\libspeex.lib 和对象 ..\..\..\..\SpeexDemo\bin\Debug\libspeex.exp
+  libspeex.vcxproj -> C:\Users\MR.Z\Desktop\新建文件夹 (2)\SpeexDemo1.3\speex-1.2rc1\win32\VS2008\libspeex\..\..\..\..\SpeexDemo\bin\Debug\libspeex.dll

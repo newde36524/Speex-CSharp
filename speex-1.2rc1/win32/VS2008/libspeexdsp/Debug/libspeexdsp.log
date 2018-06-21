@@ -1,0 +1,121 @@
+﻿  smallft.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\smallft.c(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\smallft.c(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\smallft.c(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\smallft.c(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\smallft.c(855): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\smallft.c(856): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  resample.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(294): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(294): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(324): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(412): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(528): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(595): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(676): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(684): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(687): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(694): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(860): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(863): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(916): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(923): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(933): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\resample.c(937): warning C4244: “=”: 从“double”转换到“spx_int16_t”，可能丢失数据
+  preprocess.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(281): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(284): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(365): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(370): warning C4244: “return”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(372): warning C4244: “return”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(386): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(387): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(391): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(446): warning C4244: “函数”: 从“int”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(510): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(516): warning C4305: “=”: 从“double”到“float”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(519): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(520): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(508): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(581): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(587): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(588): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(595): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(744): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(829): warning C4244: “函数”: 从“spx_word16_t”转换到“int”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(868): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(918): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(930): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(971): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(987): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(989): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1081): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1084): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1087): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1090): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1093): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1096): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1139): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1147): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1176): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1179): warning C4244: “=”: 从“double”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1195): warning C4244: “=”: 从“spx_word16_t”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1199): warning C4244: “=”: 从“spx_int32_t”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\preprocess.c(1206): warning C4244: “=”: 从“float”转换到“spx_int32_t”，可能丢失数据
+  mdf.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(200): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(368): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(479): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(489): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(505): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(507): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(509): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(511): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(488): warning C4244: “初始化”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(718): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(984): warning C4244: “=”: 从“double”转换到“spx_int16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1076): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1121): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1149): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1151): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1167): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1186): warning C4244: “=”: 从“int”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1225): warning C4244: “=”: 从“spx_int32_t”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1248): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1250): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1252): warning C4305: “=”: 从“double”到“spx_word16_t”截断
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\mdf.c(1276): warning C4244: “=”: 从“spx_word32_t”转换到“spx_int32_t”，可能丢失数据
+  kiss_fftr.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\kiss_fftr.c(129): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\kiss_fftr.c(130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\kiss_fftr.c(131): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\kiss_fftr.c(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  kiss_fft.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\kiss_fft.c(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\kiss_fft.c(198): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  jitter.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\jitter.c(203): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\jitter.c(236): warning C4244: “=”: 从“float”转换到“spx_int32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\jitter.c(447): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\jitter.c(696): warning C4018: “<”: 有符号/无符号不匹配
+  filterbank.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(57): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\math_approx.h(323): warning C4244: “=”: 从“double”转换到“spx_word16_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\filterbank.c(63): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\filterbank.c(83): warning C4244: “=”: 从“double”转换到“spx_word32_t”，可能丢失数据
+  fftwrap.c
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\fftwrap.c(103): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\mr.z\downloads\speex-1.2rc1\libspeex\fftwrap.c(109): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  buffer.c
+  正在生成代码...
+buffer.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 Debug\libspeexdsp.lib 和对象 Debug\libspeexdsp.exp
+  libspeexdsp.vcxproj -> C:\Users\MR.Z\Downloads\speex-1.2rc1\win32\VS2008\libspeexdsp\Debug\libspeexdsp.dll
